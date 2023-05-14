@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "https://cintarahmaliya.vercel.app",
   name: "Cinta Rahmaliya",
   jobDescription: "Web Developer",
-  about: `I am a software engineer living in Malang Regency, Indonesia. I love making things come to life on the internet, be it websites, apps, or anything in between. Skilled in Front-end Development. I have 1 year experience in HTML, CSS, JavaScript, PHP, Bootstrap and Tailwind CSS. Because of this, I have successfully completed several web projects from scratch. However, I am learning continuously and never stop exploring new technologies. So, I also gain knowledge about Laravel & Java with time. I am a hard-working person and a great team player. I am a fast learner and always eager to learn new things. I am a self-motivated person and I love to take challenges.`,
+  about: `I am a software engineer living in Malang Regency, Indonesia. I like making things come to life on the internet, be it websites, apps, or anything in between. Skilled in Front-end Development. I have 1 year experience in HTML, CSS, JavaScript, PHP, Bootstrap and Tailwind CSS. Because of this, I have successfully completed several web projects from scratch. However, I am learning continuously and never stop exploring new technologies. So, I also gain knowledge about Laravel & Java with time. I am a hard-working person and a great team player. I am a fast learner and always eager to learn new things. I am a self-motivated person and I love to take challenges.`,
 
   experience: [
     {
